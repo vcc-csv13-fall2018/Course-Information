@@ -22,7 +22,7 @@ to software engineering issues.
 
 ### Lecture:
 
-M,W 8:00 AM - 9:50 PM (SCI-226)
+MW 8:00 AM - 9:50 PM (SCI-226)
 
 ### Textbook: 
 
