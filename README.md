@@ -36,7 +36,7 @@ encapsulation and method overloading, as well as multi-threading for animations 
 2. CSLO-3: Apply the principles of OOP on single, double and multi-dimensional arrays of alphanumeric,
 numeric and abstract data types.
 
-3.CSLO-4: Methodologically construct objects that show the principles of information hiding, overloading,
+3. CSLO-4: Methodologically construct objects that show the principles of information hiding, overloading,
 polymorphism, encapsulation, reusability within the parameters of C++ programming syntax and creates
 instances of the object for testing purposes.
 
