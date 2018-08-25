@@ -28,6 +28,11 @@ MW 8:00 AM - 9:50 PM (SCI-226)
 
 Programming In C++ with zyLabs, Frank Vahid and Roman Lysecky. Available only at [ZyBooks](https://www.zybooks.com). Not available from the VCC Bookstore. The textbook is required.
 
+To get the book, follow these instructions:
+1. Sign in or create an account at learn.zybooks.com
+2. Enter zyBook code: VENTURACOLLEGECSV13KnightFall2018
+3. Subscribe
+
 ### Student Learning Outcomes:
 
 1. CSLO-2: Understand the concept of OOP, the purpose and usage principles of inheritance, polymorphism,
